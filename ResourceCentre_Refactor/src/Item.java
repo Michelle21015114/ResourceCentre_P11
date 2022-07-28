@@ -7,7 +7,7 @@ public class Item {
 
 	public Item(String assetTag, String description) {
 		this.assetTag = assetTag;
-		//mICHELLE - for CI exercise
+		//MICHELLE - for CI exercise
 		this.description = description;
 		this.dueDate = "";
 		this.isAvailable = true;
